@@ -1,4 +1,2 @@
-[master cc61e10] Task 1.What's in there?
- 2 files changed, 3 insertions(+)
- create mode 100755 0x00-shell_basics/1-listit
- create mode 100644 README.md
+[master f8b73b6] Task 2.There is no place like home
+ 1 file changed, 4 insertions(+), 1 deletion(-)
