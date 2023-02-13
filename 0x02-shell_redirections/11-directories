@@ -1,2 +1,2 @@
 #!/vin/bash
-find . -type d ! -path .| wc -1
+find . -type d ! -path .| WC -1
